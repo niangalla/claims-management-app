@@ -1,0 +1,29 @@
+#begin{
+    /* border-radius: 55px; */
+    font-size: 18px;
+    /* text-decoration: underline; */
+}
+#fieldset {
+    /* background-image: url('/assets/img/etu/Office.jpg'); */
+    background-size: cover;
+	border-radius: 15px;
+    border: outset ;
+    background-position: left;
+    color: black;
+}
+
+ul li {
+    list-style-type:disc;
+}
+
+div#start{
+	padding-top: 10px;
+}
+/* a{
+	color: blue;
+} */
+mark{
+	color: red;
+	text-align: left;
+	text-decoration: underline;
+}

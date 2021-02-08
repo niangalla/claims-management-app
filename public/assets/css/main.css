@@ -1,0 +1,76 @@
+#navright{
+    margin-left: 943px;
+}
+
+nav #navright  a:hover{background-color: rgb(125, 162, 218);outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}
+nav #home a:hover{
+    background-color: rgb(125, 162, 218);outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;
+}
+nav {
+    font-family:"Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:bold;line-height:1.1;color:inherit
+}
+#enter1, #enter2{
+    font-family:"Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    line-height:1.1;
+    color:inherit
+}
+ #home_title{
+    font-family:"Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    line-height:1.1;
+    color:inherit;
+ }
+ #jumbo{
+     background-image: url('/assets/img/etu/background1.png');
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-attachment:scroll;
+ }
+ #login_etu{
+    background-image: url('/assets/img/etu/background1.png');
+    background-position: left;
+     margin-top: 265px;
+     top:auto;
+     bottom:47px;
+ }
+ #login_ens{
+    background-image: url('/assets/img/etu/background.png');
+    background-position: left;
+    margin-top: 265px;
+    top:auto;
+    bottom:47px;
+ }
+
+ #pseudo{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: larger;
+ }
+ #claims_form{
+    background-image: url('/assets/img/etu/background1.png');
+    background-position: center;
+ }
+
+.input-icone{
+    position:relative;
+ }
+ /* :#2e81ce */
+.input-icone i{
+    position:absolute;
+    left:0;
+    top:4px;
+    padding:9px 8px;
+    color:#2e81ce; }
+#identifiant{
+    padding-left: 30px;
+}
+#password{
+    padding-left: 30px;
+}
+#identifiant_admin{
+    padding-left: 30px;
+}
+#password_admin{
+    padding-left: 30px;
+}
+
