@@ -3,6 +3,9 @@
 
 It's about a laravel claims management app provides to facilitate the way Thies University Students make their
 claims in some note exams.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niangalla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 Like my work ?
 
 
